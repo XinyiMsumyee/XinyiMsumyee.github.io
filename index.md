@@ -4,11 +4,15 @@
 
 ### Projects
 
-[Estimation of soil moisture](/sample_page)
+[Estimation of soil moisture](/pdf/soilMoisture.pdf)
+<img src="images/soilMoisture_poster.jpg?raw=true"/>
+
+---
+[Sale price prediction in San Francisco](/html/salesPredictionSF.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Space-Time Analyses and Prediction of Bike Share Demand](/sample_page)
+[Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
