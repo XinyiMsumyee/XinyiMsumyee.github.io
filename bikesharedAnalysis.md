@@ -8,7 +8,9 @@ As a preliminary exloratory analysis, this research focus on the bike trips in J
 
 Clustering analysis are conducted respectively based on the geographic coordinate, and transition pattern of stations as well as station activity. The results are mapped to city map in order to understand the flow of residents in different time and how the surroundings affect the bike activity of each station.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bikeAnalysis1.jpg?raw=true"/>
+<img src="images/bikeAnalysis2.jpg?raw=true"/>
+<img src="images/bikeAnalysis3.jpg?raw=true"/>
 
 ### 2. Space-Time Prediction of Bike Share Demand
 
