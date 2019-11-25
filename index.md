@@ -20,7 +20,7 @@
 ### Homework projects
 
 - [Project 1 Title](http://example.com/)
-<img src="images/crimes_hour.gif?raw=true" width=200>
+<img src="images/crimes_hour.gif?raw=true" style="width:48px;height:48px;">
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
