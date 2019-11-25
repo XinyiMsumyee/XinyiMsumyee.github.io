@@ -15,6 +15,9 @@ Clustering analysis are conducted respectively based on the geographic coordinat
 ### 2. [Space-Time Prediction of Bike Share Demand](/html/spacetime.html)
 
 In this report, a prediction model for bike share ridership is built based on bike share data of Citi Bike in NYC in September 2019, taking not only spatial and temporal effects but also time lags and holiday effects into account. Generally, the model performs well in predicting the demand in the bike share system and can track the spatio-temporal component of bike usage. However, the model yields rather high errors for active stations, and underpredict the activity especially for periods of high demand. With the result, the overall usage could be easily obtained, but we do not recommend predicting the system demand in specific stations that observe active bike activity in high-demand hours like peak. Otherwise, the underprediction may cause the insufficient docks as well as bikes in hot station, and therefore, the user dissatisfaction and loss.
+
+For more details see [R Markdown](/html/spacetime.html)
+
 <img src="images/bikeActivity.gif?raw=true"/>
 <br><br>
-<img src="images/wordCloud_bike.png?raw=true" style="width:300px;height:300px;align:center">
+<img src="images/wordCloud_bike.png?raw=true" style="width:300px;align:middle">

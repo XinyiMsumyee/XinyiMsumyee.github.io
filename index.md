@@ -9,7 +9,9 @@
 
 ---
 ### [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
+- Analyses
 <img src="images/bikeAnalysis_overall.png?raw=true">
+- Prediction
 <img src="images/bikePredict.png?raw=true">
 
 ---
