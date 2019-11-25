@@ -5,24 +5,29 @@
 ### Projects
 
 [Sale price prediction in San Francisco](/html/salesPredictionSF.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wordCloud.png?raw=true"/>
+<img src="images/saleSF.png?raw=true"/>
 
 ---
 [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wordCloud_bike.jpg?raw=true"/>
+<img src="images/bikeActivity.gif?raw=true"/>
+<br>
+<img src="images/bikePredict.png?raw=true"/>
 
 ---
 
 ### Homework projects
 
 - [Visualize crime incidents in Philadelphia](https://nbviewer.jupyter.org/github/XinyiMsumyee/HomeworkProjectForMUSA620/blob/master/assignment-5_Xinyi_Miao.ipynb)
-In this project, web scramping and datashader is used.
+<br>
+In this project, web scraping (BeautifulSoup) and Datashader are used to get data and make the animated map.
 <br>
 <img src="images/crimes_hour.gif?raw=true" style="width:400px;height:400px;">
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#- [Project 2 Title](http://example.com/)
+#- [Project 3 Title](http://example.com/)
+#- [Project 4 Title](http://example.com/)
+#- [Project 5 Title](http://example.com/)
 
 ---
 
