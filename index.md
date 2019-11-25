@@ -19,7 +19,7 @@
 
 ---
 
-#### Homework projects
+#### Crousework
 
 - [Visualize crime incidents in Philadelphia](https://nbviewer.jupyter.org/github/XinyiMsumyee/HomeworkProjectForMUSA620/blob/master/assignment-5_Xinyi_Miao.ipynb)
 <br>
