@@ -1,6 +1,8 @@
 ## Bike shared data analysis
 
-**Project description:** Bike share System gains popularity as a healthy, and low-carbon mode of travel. It is economical, energy-saving, environmentally-friendly, flexible and convenient. However, when the planning and maintaining the system, there appears great amounts of problems like bicycles re-balancing. Knowing the demand of the system ahead could be helpful to mitigate the unbanlance. In this report, a time-space predicting model is built to predict the bike activity of the system, with which, administrators can easily gain actionable insight into demand change in time and space, and therefore could better allocate the resources to those crowded stations.
+**Project description:** Bike share System gains popularity as a healthy, and low-carbon mode of travel. It is economical, energy-saving, environmentally-friendly, flexible and convenient. However, when the planning and maintaining the system, there appears great amounts of problems like bicycles re-balancing. Knowing the demand of the system ahead could be helpful to mitigate the unbanlance. By analyzing the travel patterns of different user groups and the demand across the space, related predictors are selected for model building. Time-space predicting model is built to predict the bike activity of the system, with which, administrators can easily gain actionable insight into demand change in time and space, and therefore could better allocate the resources to those crowded stations.
+<br>
+<img src="images/wordCloud_bike.png?raw=true"/>
 
 ### 1. Analysis of Urban Residents’ Travel based on Shared Bicycle Data
 
@@ -8,9 +10,9 @@ As a preliminary exloratory analysis, this research focus on the bike trips in J
 
 Clustering analysis are conducted respectively based on the geographic coordinate, and transition pattern of stations as well as station activity. The results are mapped to city map in order to understand the flow of residents in different time and how the surroundings affect the bike activity of each station.
 
-<img src="images/bikeAnalysis1.jpg?raw=true"/>
-<img src="images/bikeAnalysis2.jpg?raw=true"/>
-<img src="images/bikeAnalysis3.jpg?raw=true"/>
+<img src="images/bikeAnalysis1.png?raw=true"/>
+<img src="images/bikeAnalysis2.png?raw=true"/>
+<img src="images/bikeAnalysis3.png?raw=true"/>
 
 ### 2. [Space-Time Prediction of Bike Share Demand](/html/spacetime.html)
 
@@ -19,5 +21,3 @@ In this report, a prediction model for bike share ridership is built based on bi
 For more details see [R Markdown](/html/spacetime.html)
 
 <img src="images/bikeActivity.gif?raw=true"/>
-<br><br>
-<img src="images/wordCloud_bike.png?raw=true" style="width:300px;align:middle">
