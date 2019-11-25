@@ -4,12 +4,11 @@
 
 ### Projects
 
-### [Sale price prediction in San Francisco](/html/salesPredictionSF.html)
-<br>
+#### [Sale price prediction in San Francisco](/html/salesPredictionSF.html)
 <img src="images/saleSF.png?raw=true"/>
 
 ---
-[Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
+### [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
 <br>
 <img src="images/bikePredict.png?raw=true">
 
