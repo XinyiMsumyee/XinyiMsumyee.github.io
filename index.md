@@ -10,10 +10,8 @@
 
 ---
 [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
-<img src="images/wordCloud_bike.png?raw=true"/>
-<img src="images/bikeActivity.gif?raw=true"/>
-<br>
-<img src="images/bikePredict.png?raw=true"/>
+<img src="images/bikeActivity.gif?raw=true" style="width:250px;height:250px;">
+<img src="images/bikePredict.png?raw=true" style="width:400px;">
 
 ---
 
