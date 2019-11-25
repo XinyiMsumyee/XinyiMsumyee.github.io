@@ -9,11 +9,11 @@
 
 ---
 ### [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
-- Analyses
+- *Analyses*
 <br>
 <img src="images/bikeAnalysis_overall.png?raw=true">
 <br>
-- Prediction
+- *Prediction*
 <br>
 <img src="images/bikePredict.png?raw=true">
 
