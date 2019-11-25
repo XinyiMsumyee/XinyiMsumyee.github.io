@@ -5,12 +5,11 @@
 ### Projects
 
 [Sale price prediction in San Francisco](/html/salesPredictionSF.html)
-<img src="images/wordCloud.png?raw=true" style="width:300px;height:300px;">
+<img src="images/wordCloud.png?raw=true" style="width:100px;height:100px;">
 <img src="images/saleSF.png?raw=true"/>
 
 ---
 [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
-<img src="images/bikeActivity.gif?raw=true" style="width:250px;height:250px;">
 <img src="images/bikePredict.png?raw=true" style="width:400px;">
 
 ---
