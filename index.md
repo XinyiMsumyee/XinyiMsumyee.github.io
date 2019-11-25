@@ -19,8 +19,9 @@
 
 ### Homework projects
 
-- [Project 1 Title](http://example.com/)
-<img src="images/crimes_hour.gif?raw=true" style="width:48px;height:48px;">
+- [Visualize crime incidents in Philadelphia](https://nbviewer.jupyter.org/github/XinyiMsumyee/HomeworkProjectForMUSA620/blob/master/assignment-5_Xinyi_Miao.ipynb)
+In this project, web scramping and datashader is used.
+<img src="images/crimes_hour.gif?raw=true" style="width:200px;height:200px;">
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
