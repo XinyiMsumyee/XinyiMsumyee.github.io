@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Bike shared data analysis
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Bike share System gains popularity as a healthy, and low-carbon mode of travel. It is economical, energy-saving, environmentally-friendly, flexible and convenient. However, when the planning and maintaining the system, there appears great amounts of problems like bicycles re-balancing. Knowing the demand of the system ahead could be helpful to mitigate the unbanlance. In this report, a time-space predicting model is built to predict the bike activity of the system, with which, administrators can easily gain actionable insight into demand change in time and space, and therefore could better allocate the resources to those crowded stations.
 
 ### 1. Analysis of Urban Residents’ Travel based on Shared Bicycle Data
 
@@ -15,6 +15,6 @@ Clustering analysis are conducted respectively based on the geographic coordinat
 In this report, a prediction model for bike share ridership is built based on bike share data of Citi Bike in NYC in September 2019, taking not only spatial and temporal effects but also time lags and holiday effects into account. Generally, the model performs well in predicting the demand in the bike share system and can track the spatio-temporal component of bike usage. However, the model yields rather high errors for active stations, and underpredict the activity especially for periods of high demand. With the result, the overall usage could be easily obtained, but we do not recommend predicting the system demand in specific stations that observe active bike activity in high-demand hours like peak. Otherwise, the underprediction may cause the insufficient docks as well as bikes in hot station, and therefore, the user dissatisfaction and loss.
 <img src="images/bikeActivity.gif?raw=true">
 <br><br>
-For more details check the R Markdown (/html/spacetime.html).
+For more details check the [R Markdown](/html/spacetime.html).
 <br><br><br>
 <img src="images/wordCloud_bike.png?raw=true"/>
