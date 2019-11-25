@@ -5,12 +5,12 @@
 ### Projects
 
 [Sale price prediction in San Francisco](/html/salesPredictionSF.html)
-<img src="images/wordCloud.png?raw=true"/>
+<img src="images/wordCloud.png?raw=true" style="width:300px;height:300px;">
 <img src="images/saleSF.png?raw=true"/>
 
 ---
 [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
-<img src="images/wordCloud_bike.jpg?raw=true"/>
+<img src="images/wordCloud_bike.png?raw=true"/>
 <img src="images/bikeActivity.gif?raw=true"/>
 <br>
 <img src="images/bikePredict.png?raw=true"/>
@@ -24,10 +24,6 @@
 In this project, web scraping (BeautifulSoup) and Datashader are used to get data and make the animated map.
 <br>
 <img src="images/crimes_hour.gif?raw=true" style="width:400px;height:400px;">
-#- [Project 2 Title](http://example.com/)
-#- [Project 3 Title](http://example.com/)
-#- [Project 4 Title](http://example.com/)
-#- [Project 5 Title](http://example.com/)
 
 ---
 
