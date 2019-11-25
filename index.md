@@ -10,8 +10,11 @@
 ---
 ### [Space-Time Analyses and Prediction of Bike Share Demand](/bikesharedAnalysis)
 - Analyses
+<br>
 <img src="images/bikeAnalysis_overall.png?raw=true">
+<br>
 - Prediction
+<br>
 <img src="images/bikePredict.png?raw=true">
 
 ---
@@ -21,7 +24,7 @@
 - [Visualize crime incidents in Philadelphia](https://nbviewer.jupyter.org/github/XinyiMsumyee/HomeworkProjectForMUSA620/blob/master/assignment-5_Xinyi_Miao.ipynb)
 <br>
 In this project, web scraping (BeautifulSoup) and Datashader are used to get data and make the animated map.
-<br>
+<br><br>
 <img src="images/crimes_hour.gif?raw=true" style="width:400px;height:400px;">
 
 ---
