@@ -13,6 +13,14 @@
 <br>
 <img src="images/bikeAnalysis_overall.png?raw=true">
 <br>
+- **Interactive analysis system**
+<br>
+<img src="images/gee2.png?raw=true">
+<br>
+- **Site planning**
+<br>
+<img src="images/siteplanning.png?raw=true">
+<br>
 - **Prediction**
 <br>
 <img src="images/bikePredict.png?raw=true">
