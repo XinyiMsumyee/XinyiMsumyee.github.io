@@ -18,6 +18,11 @@
 <img src="images/bikePredict.png?raw=true">
 
 ---
+#### [Interactive web dashboard for taxi data analysis](/webdashboard)
+<img src="images/panel.png?raw=true">
+<img src="images/candp.png?raw=true">
+
+---
 
 #### Crousework
 
