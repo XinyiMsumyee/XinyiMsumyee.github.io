@@ -31,6 +31,9 @@
 <img src="images/candp.png?raw=true">
 
 ---
+#### [Prediction of Scooters Demand in Louisville KY](/scootersdemand)
+<img src="images/scooters.png?raw=true">
+---
 
 #### Crousework
 
