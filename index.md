@@ -35,7 +35,7 @@
 <img src="images/scooters.png?raw=true">
 
 ---
-#### [COVID-19 IN THE KOREA AND THE UNITED STATES: Analysis and Prediction](/Final_Project_CIS545)
+#### [COVID-19 IN THE KOREA AND THE UNITED STATES: Analysis and Prediction](/Covid19)
 
 ---
 
